@@ -1,12 +1,12 @@
-\# Sistema de Restaurante - TP integrador
+# Sistema de Restaurante - TP integrador
 
 
 
-\##Diagrama de Clases (UML)
+## Diagrama de Clases (UML)
 
 a continuación se detalla la arquitectura del sistema:
 
 
 
-!\[Diagrama UML](diagrama.png)
+![Diagrama UML](./diagrama.png)
 
